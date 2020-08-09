@@ -1,13 +1,6 @@
-# Smart Mirror
+# Project
 
-This is the source code for the prototype UI of my smart mirror projects outlined in
-[this article](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba)
-and its [follow-up](https://medium.com/@maxbraun/smarter-mirrors-and-how-theyre-made-327997b9eff7).
-
-[![Smart Mirror 1](mirror-1.jpg)](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba)
-
-[![Smart Mirror 2](mirror-2.jpg)](https://medium.com/@maxbraun/smarter-mirrors-and-how-theyre-made-327997b9eff7)
-
+This is the source code for the prototype UI of projects outlined in
 To get started, import the whole project into
 [Android Studio](http://developer.android.com/tools/studio/index.html), then build and run the apk.
 The first prototype uses
